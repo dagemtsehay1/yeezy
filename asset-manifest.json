@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/yeezy/static/css/main.734757ad.css",
+    "main.js": "/yeezy/static/js/main.c1ad63c6.js",
+    "static/media/OcrB2.ttf": "/yeezy/static/media/OcrB2.908ba7f6088cc0fe8ab0.ttf",
+    "index.html": "/yeezy/index.html",
+    "main.734757ad.css.map": "/yeezy/static/css/main.734757ad.css.map",
+    "main.c1ad63c6.js.map": "/yeezy/static/js/main.c1ad63c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.734757ad.css",
+    "static/js/main.c1ad63c6.js"
+  ]
+}
